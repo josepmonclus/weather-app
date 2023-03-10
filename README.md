@@ -11,7 +11,3 @@ Basado en ASMR Programming #10
 ## Extra info
 
 Usaremos la API de [OpenWeather](https://openweathermap.org/)
-
-```
-API Key: 470aca241c19bd49900bd18e02fecd37
-```
