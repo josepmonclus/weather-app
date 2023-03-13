@@ -6,7 +6,7 @@ const error404 = document.querySelector('.not-found');
 
 serach.addEventListener('click', () => {
 
-    const APIKey = 'APIKEY';
+    const APIKey = process.env.OPENWEATHER_APIKEY;
     const city = document.querySelector('.search-box input').value;
 
     if (city === '')
